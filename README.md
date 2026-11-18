@@ -31,7 +31,7 @@ Halo! Saya **Vito Adyatma Yoransa** (dikenal di GitHub sebagai **Go-Pai**), Sarj
 Saya memiliki minat mendalam pada **Frontend & Web Development** dengan keahlian membangun antarmuka web yang modern, interaktif, dan berorientasi pengguna, didukung fondasi teknis pendukung di bidang IT & Networking.
 
 - 🔭 **Sedang Mengerjakan:** Aplikasi enterprise, web modern berbasis modern framework (Vue, React, Astro), dan eksplorasi antarmuka interaktif.
-- 💼 **Pengalaman Terkini:** Web & Frontend Developer di **PT Selamat Jaya Persada**, mengembangkan sistem **GAIS SJP** (*Vue 3 & Inertia.js*) serta merancang & membangun **Company Profile PT Selamat Jaya Persada** multi-entitas (*WordPress Custom Child Theme, PHP, Docker*).
+- 💼 **Pengalaman Terkini:** Web & Frontend Developer di **PT Selamat Jaya Persada**, berkontribusi dalam 30+ Pull Request (PR) merged integrasi REST API & antarmuka GAIS SJP (*Vue 3 & Inertia.js*), integrasi scanner QR Code aset, serta merancang Company Profile korporat multi-entitas (*WordPress & Docker*).
 - 📜 **Publikasi Ilmiah:** Penulis utama jurnal nasional terakreditasi **Sinta 3** dalam riset pencarian rute rumah sakit menggunakan Algoritma A* (A-Star).
 - 💬 **Bicara dengan saya seputar:** Vue.js, React, Inertia.js, Astro, Tailwind CSS, TypeScript, dan UI/UX Engineering.
 - 📫 **Kontak:** [vitorzr00@gmail.com](mailto:vitorzr00@gmail.com) | [LinkedIn](https://www.linkedin.com/in/vitoadyatma)
