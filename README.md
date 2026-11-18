@@ -31,7 +31,7 @@ Halo! Saya **Vito Adyatma Yoransa** (dikenal di GitHub sebagai **Go-Pai**), Sarj
 Saya memiliki minat mendalam pada **Frontend & Web Development** dengan keahlian membangun antarmuka web yang modern, interaktif, dan berorientasi pengguna, serta didukung fondasi teknis yang kuat di bidang **IT Support & Networking**.
 
 - 🔭 **Sedang Mengerjakan:** Aplikasi enterprise, web modern berbasis modern framework (Vue, React, Astro), dan eksplorasi antarmuka interaktif.
-- 💼 **Pengalaman Terkini:** Frontend Developer Intern di **PT Selamat Jaya Persada**, mengembangkan modul GAIS SJP (General Affair Information System) dengan Vue 3 & Inertia.js.
+- 💼 **Pengalaman Terkini:** Web & Frontend Developer di **PT Selamat Jaya Persada**, mengembangkan sistem **GAIS SJP** (*Vue 3 & Inertia.js*) serta merancang & membangun **Company Profile PT Selamat Jaya Persada** multi-entitas (*WordPress Custom Child Theme, PHP, Docker*).
 - 📜 **Publikasi Ilmiah:** Penulis utama jurnal nasional terakreditasi **Sinta 3** dalam riset pencarian rute rumah sakit menggunakan Algoritma A* (A-Star).
 - 💬 **Bicara dengan saya seputar:** Vue.js, React, Inertia.js, Astro, Tailwind CSS, TypeScript, dan Troubleshooting Sistem/Jaringan.
 - 📫 **Kontak:** [vitorzr00@gmail.com](mailto:vitorzr00@gmail.com) | [LinkedIn](https://www.linkedin.com/in/vitoadyatma)
@@ -74,6 +74,7 @@ Saya memiliki minat mendalam pada **Frontend & Web Development** dengan keahlian
       <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/>
       <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
       <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite"/>
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"/>
       <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
       <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel"/>
       <img src="https://img.shields.io/badge/PlayCanvas-E05F22?style=flat-square&logo=playcanvas&logoColor=white" alt="PlayCanvas"/>
@@ -90,6 +91,7 @@ Saya memiliki minat mendalam pada **Frontend & Web Development** dengan keahlian
 | **V-Track** | `React` `Vite` `Tailwind` `Supabase` | Aplikasi pelacakan & monitoring modern dengan UI responsif untuk pemantauan data real-time. | [🌐 Live Demo](https://v-track-six.vercel.app/) |
 | **Rute Rumah Sakit (A\*)** | `JavaScript` `Valhalla API` `Leaflet` | Website pencarian rute terpendek ke RS terdekat di Bengkulu berbasis Algoritma A* (A-Star) & peta interaktif. | [🌐 Live Demo](https://go-pai.github.io/rute-rumah-sakit/) • [📖 Jurnal Sinta 3](https://jurnal.itg.ac.id/index.php/algoritma/article/view/2397/1864) |
 | **GAIS SJP (Asset Mgmt)** | `Vue 3` `Inertia.js` `Tailwind` `DaisyUI` | Sistem informasi manajemen aset perusahaan dengan integrasi scanner & cetak label QR Code untuk PT Selamat Jaya Persada. | `🏢 Internal Enterprise` |
+| **SJP Company Profile** | `WordPress` `PHP` `Docker` `Elementor` | Website Company Profile korporat holding PT Selamat Jaya Persada beserta 8 anak usahanya menggunakan custom child theme dinamis dan setup Docker. | `🏢 Corporate Website` |
 | **Informatics UMB Portal** | `WordPress` `PHP` `MySQL` | Landing page resmi Program Studi Teknik Informatika Universitas Muhammadiyah Bengkulu. | [🌐 Website](https://ft-informatika.umb.ac.id) |
 | **Interactive Birthday Web** | `Astro` `JavaScript` `CSS` | Website perayaan interaktif dengan animasi dinamis dan sistem autentikasi password sederhana. | [🌐 Live Demo](https://only-for-julita.vercel.app/) |
 | **Police Car (WebGL 3D)** | `PlayCanvas` `WebGL` `JavaScript` | Game browser 3D berbasis WebGL dengan sistem fisika kendaraan dan kontrol responsif cross-browser. | [🎮 Play Game](https://playcanv.as/p/pC8RfEQb/) |
