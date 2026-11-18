@@ -101,12 +101,12 @@ Saya memiliki minat mendalam pada **Frontend & Web Development** dengan keahlian
 ### 📊 GitHub Activity & Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Go-Pai&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" alt="Go-Pai's GitHub Stats" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Go-Pai&show_icons=true&theme=tokyonight&hide_border=true&hide_rank=true&count_private=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" alt="Go-Pai's GitHub Stats" width="48%"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Go-Pai&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top Languages" width="48%"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Go-Pai&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" width="96%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Go-Pai&theme=tokyo-night&hide_border=true&bg_color=0D1117" alt="Activity Graph" width="96%"/>
 </div>
 
 ---
