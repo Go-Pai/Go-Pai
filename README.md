@@ -31,10 +31,28 @@ Halo! Saya **Vito Adyatma Yoransa** (dikenal di GitHub sebagai **Go-Pai**), Sarj
 Saya memiliki minat mendalam pada **Frontend & Web Development** dengan keahlian membangun antarmuka web yang modern, interaktif, dan berorientasi pengguna, didukung fondasi teknis pendukung di bidang IT & Networking.
 
 - 🔭 **Sedang Mengerjakan:** Aplikasi enterprise, web modern berbasis modern framework (Vue, React, Astro), dan eksplorasi antarmuka interaktif.
-- 💼 **Pengalaman Terkini:** Web & Frontend Developer di **PT Selamat Jaya Persada**, berkontribusi dalam 30+ Pull Request (PR) merged integrasi REST API & antarmuka GAIS SJP (*Vue 3 & Inertia.js*), integrasi scanner QR Code aset, serta merancang Company Profile korporat multi-entitas (*WordPress & Docker*).
+- 💼 **Status Terkini:** Aktif magang sebagai Frontend & Web Developer di **PT Selamat Jaya Persada** (Okt 2024 – Sekarang).
 - 📜 **Publikasi Ilmiah:** Penulis utama jurnal nasional terakreditasi **Sinta 3** dalam riset pencarian rute rumah sakit menggunakan Algoritma A* (A-Star).
 - 💬 **Bicara dengan saya seputar:** Vue.js, React, Inertia.js, Astro, Tailwind CSS, TypeScript, dan UI/UX Engineering.
 - 📫 **Kontak:** [vitorzr00@gmail.com](mailto:vitorzr00@gmail.com) | [LinkedIn](https://www.linkedin.com/in/vitoadyatma)
+
+---
+
+### 💼 Pengalaman Magang & Kerja
+
+#### 🏢 **Frontend & Web Developer Intern** — **PT Selamat Jaya Persada**
+*`Okt 2024 – Sekarang (Present)` • Bengkulu*
+- Mengembangkan antarmuka frontend **GAIS SJP** (*General Affair Information System*) berbasis **Vue 3** & **Inertia.js** untuk manajemen aset dan inventaris korporat.
+- Berkontribusi aktif dalam **30+ Pull Request (PR) merged** pada repositori tim untuk integrasi REST API, perbaikan layout, dan sinkronisasi data real-time.
+- Mengembangkan modul pemindaian (scan) dan cetak label QR Code aset secara langsung guna mempercepat tracking di lapangan.
+- Mendesain antarmuka responsif (desktop & mobile view) dengan **Tailwind CSS** & **DaisyUI**.
+- Membangun website resmi **Company Profile PT Selamat Jaya Persada & 8 Entitas Anak Usaha** berbasis **WordPress Custom Child Theme** dan **Docker** ([🌐 Live Website](https://profile.absenkusjp.com/)).
+
+#### 🏫 **Full-Stack Developer Intern** — **Sekolah Dasar Negeri (SDN)**
+*`Magang` • Bengkulu*
+- Merancang dan membangun aplikasi presensi sekolah (**School Attendance System**) berbasis web untuk guru dan murid menggunakan **PHP** & **MySQL**.
+- Mengimplementasikan fitur rekapitulasi kehadiran otomatis serta integrasi ekspor laporan presensi ke format **Microsoft Excel**.
+- Menambahkan modul pendaftaran siswa baru secara daring dan berhasil melakukan deployment sistem ke server hosting.
 
 ---
 
