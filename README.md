@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,12,24&height=220&section=header&text=Vito%20Adyatma%20Yoransa&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer%20%7C%20Web%20Engineer%20%7C%20IT%20Support&descAlignY=58&descAlign=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,12,24&height=220&section=header&text=Vito%20Adyatma%20Yoransa&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer%20%7C%20Web%20Engineer%20%7C%20UI%2FUX&descAlignY=58&descAlign=50" width="100%"/>
 
 <!-- Typing SVG Animation -->
 <a href="https://git.io/typing-svg">
@@ -28,12 +28,12 @@
 
 Halo! Saya **Vito Adyatma Yoransa** (dikenal di GitHub sebagai **Go-Pai**), Sarjana Teknik Informatika (*S.Kom.*) dari **Universitas Muhammadiyah Bengkulu** dengan IPK **3.82 / 4.00**.
 
-Saya memiliki minat mendalam pada **Frontend & Web Development** dengan keahlian membangun antarmuka web yang modern, interaktif, dan berorientasi pengguna, serta didukung fondasi teknis yang kuat di bidang **IT Support & Networking**.
+Saya memiliki minat mendalam pada **Frontend & Web Development** dengan keahlian membangun antarmuka web yang modern, interaktif, dan berorientasi pengguna, didukung fondasi teknis pendukung di bidang IT & Networking.
 
 - 🔭 **Sedang Mengerjakan:** Aplikasi enterprise, web modern berbasis modern framework (Vue, React, Astro), dan eksplorasi antarmuka interaktif.
 - 💼 **Pengalaman Terkini:** Web & Frontend Developer di **PT Selamat Jaya Persada**, mengembangkan sistem **GAIS SJP** (*Vue 3 & Inertia.js*) serta merancang & membangun **Company Profile PT Selamat Jaya Persada** multi-entitas (*WordPress Custom Child Theme, PHP, Docker*).
 - 📜 **Publikasi Ilmiah:** Penulis utama jurnal nasional terakreditasi **Sinta 3** dalam riset pencarian rute rumah sakit menggunakan Algoritma A* (A-Star).
-- 💬 **Bicara dengan saya seputar:** Vue.js, React, Inertia.js, Astro, Tailwind CSS, TypeScript, dan Troubleshooting Sistem/Jaringan.
+- 💬 **Bicara dengan saya seputar:** Vue.js, React, Inertia.js, Astro, Tailwind CSS, TypeScript, dan UI/UX Engineering.
 - 📫 **Kontak:** [vitorzr00@gmail.com](mailto:vitorzr00@gmail.com) | [LinkedIn](https://www.linkedin.com/in/vitoadyatma)
 
 ---
